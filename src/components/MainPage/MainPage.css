@@ -1,0 +1,8 @@
+.mainPage-style{
+  min-height: calc(100vh - 120px);
+  width: 100vw;
+}
+
+.pointer{
+  cursor: pointer;
+}
