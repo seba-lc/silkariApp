@@ -1,15 +1,12 @@
 import React from 'react';
-import './MainPage.css';
+import './StockPage.css';
 
-const MainPage = () => {
-  
-  
-
+const StockPage = () => {
   return (
     <div className='mainPage-style d-flex flex-column justify-content-center align-items-center'>
-      <div>Aca ira el mapa del Silkari o la lista de habitaciones</div>
+      Formulario para la entrada de Stock
     </div>
   );
 };
 
-export default MainPage;
+export default StockPage;
