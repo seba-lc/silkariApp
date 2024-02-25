@@ -11,7 +11,9 @@ const LandingButtons = () => {
       <div className='border p-1 m-1 pointer' onClick={() => navigate('/bookings')}>Bookings</div>
       <div className='border p-1 m-1 pointer' onClick={() => navigate('/rooms')}>Rooms</div>
       <div className='border p-1 m-1 pointer' onClick={() => navigate('/items')}>Items</div>
+      <div className='border p-1 m-1 pointer' onClick={() => navigate('/newstock')}>New Stock</div>
       <div className='border p-1 m-1 pointer' onClick={() => navigate('/stock')}>Stock</div>
+      {/* <div className='border p-1 m-1 pointer' onClick={() => navigate('/newissue')}>New Issue</div> */}
       <div className='border p-1 m-1 pointer' onClick={() => navigate('/issue')}>Issues</div>
     </div>
   );

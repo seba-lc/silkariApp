@@ -1,8 +1,8 @@
-.bookingPage-style{
+.roomPage-style{
   min-height: calc(100vh - 120px);
   width: 100vw;
 }
 
-.booking-input-style{
+.room-input-style{
   width: 330px;
 }

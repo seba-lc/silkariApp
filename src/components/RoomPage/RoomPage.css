@@ -2,3 +2,12 @@
   min-height: calc(100vh - 120px);
   width: 100vw;
 }
+
+.side-style{
+  width: 50vw;
+}
+
+.fixIssue-style:hover{
+  background-color: yellow;
+  transition: 400ms;
+}

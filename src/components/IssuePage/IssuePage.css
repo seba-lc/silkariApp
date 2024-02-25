@@ -2,3 +2,11 @@
   min-height: calc(100vh - 120px);
   width: 100vw;
 }
+
+.issue-input-style{
+  width: 500px;
+}
+
+.quantityInput-style{
+  width: 85px;
+}
